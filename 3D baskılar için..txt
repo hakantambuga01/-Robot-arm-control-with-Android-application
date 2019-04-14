@@ -1,2 +1,2 @@
-Thingiverse.com dan MK2 isimli robot kol çizimlerini indirip 3D printer'dan elde edebilirsiniz.
-Motor olarak sg90 kullanýldý.
+Thingiverse.com dan MK1 isimli robot kol Ã§izimlerini indirip 3D printer'dan elde edebilirsiniz.
+Motor olarak sg90 kullanÄ±ldÄ±.
